@@ -1,0 +1,2 @@
+Project: Recipes from The Odin Projects Foundations Course - https://www.theodinproject.com/lessons/foundations-recipes
+This assignments asks us to build a basic website with an index.html page that links to three different recipes. This small project will test what I have learnt so far with HTML, I will also be practising and utlising Git commands and GitHub via the terminal.
